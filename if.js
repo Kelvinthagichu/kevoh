@@ -1,4 +1,4 @@
-let mark=99;
+let mark=30;
 let grade=null;
 if (mark<30 )
     {grade='d'}
