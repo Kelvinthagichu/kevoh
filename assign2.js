@@ -5,7 +5,7 @@ function checkNumber(number){
     else if (number<0) {
         return 'zero';
     }
-    else if(number<10){
+    else if(number<10){a
         return'positive'
     }
 }

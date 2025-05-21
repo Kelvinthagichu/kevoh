@@ -6,9 +6,10 @@ function f(x)
     let term3=-11;
     let ans=(term1+term2+term3);
     return ans;
+    fx(2);
   
 }
-  fx(2);
+  
   
   console.log('ans');
   
